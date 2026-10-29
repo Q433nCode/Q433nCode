@@ -1,20 +1,52 @@
-Hi there 👋
-Welcome to my GitHub profile! I’m Xolile Queen Moloi, a passionate Information Technology student specializing in software development and AI-driven solutions. Here's a little about me:
+<div align="center">
+  <h1>Hi there 👋, I'm Xolile Queen Moloi</h1>
+  <p><em>Information Technology Student | Software Developer | AI & Full-Stack Enthusiast</em></p>
 
-🔭 I’m currently working on e-recruitment dashboards, AI solutions for education and healthcare, and a weather alert app with crowdsourcing capabilities.
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  </p>
+</div>
 
-🌱 I’m expanding my skills in Python, AI chatbot development, and API integration for dynamic applications.
+---
 
-👯 I’m looking to collaborate on projects that involve HR tech, healthcare systems, or AI-enhanced web apps.
+### 🔭 What I'm Working On
+* **E-recruitment dashboards** and streamlining digital hiring workflows.
+* **AI solutions for education and healthcare** to make critical services smarter and more accessible.
+* **Weather alert applications** featuring crowdsourcing capabilities for real-time updates.
 
-🤔 I’m seeking guidance on advanced AI algorithms and cloud-based systems for scalability.
+### 🌱 What I'm Learning & Exploring
+* Expanding my expertise in **Python**, **AI chatbot integration**, and scalable cloud APIs.
+* Building modern, user-friendly web architectures and responsive mobile-first interfaces.
 
-💬 Ask me about web development, data visualization, or my experience building interactive dashboards!
+### 👯 Collaboration Interests
+I am always open to connecting and collaborating on projects involving:
+* HR tech & administrative management systems
+* Healthcare software and digital platforms
+* AI-enhanced web applications that solve real-world community challenges
 
-📫 How to reach me: LinkedIn, Email, or explore my portfolio.
+### ⚡ Fun Fact & Roots
+* 🌍 I hail from a small town in **Qwaqwa**, and I am deeply passionate about merging technology with localized solutions to uplift communities.
+* 😄 Pronouns: She/Her
 
-😄 Pronouns: She/Her
+---
 
-⚡ Fun fact: I’m from a small town in Qwaqwa and love merging technology with real-world solutions to benefit local communities.
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Q433nCode&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Q433nCode's GitHub Stats" />
+</div>
 
-Feel free to explore my projects and let’s connect to innovate together! 🚀
+---
+
+### 📫 Connect With Me
+* **LinkedIn:** [Xolile Queen Moloi](https://linkedin.com)
+* **Email:** Reach out via my profile or portfolio links!
+
+<div align="center">
+  <em>"Let's innovate together and build technology that matters. 🚀"</em>
+</div>
