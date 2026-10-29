@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Hi there 👋, I'm Xolile Queen Moloi</h1>
-  <p><em>Information Technology Student | Software Developer | AI & Full-Stack Enthusiast</em></p>
+  <p><em>Information Technology Graduate | Software Developer | AI & Full-Stack Enthusiast</em></p>
 
   <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -21,7 +21,7 @@
 * **Weather alert applications** featuring crowdsourcing capabilities for real-time updates.
 
 ### 🌱 What I'm Learning & Exploring
-* Expanding my expertise in **Python**, **AI chatbot integration**, and scalable cloud APIs.
+* Expanding my expertise in **Java**, **object-oriented system architecture**, and scalable cloud APIs.
 * Building modern, user-friendly web architectures and responsive mobile-first interfaces.
 
 ### 👯 Collaboration Interests
@@ -34,17 +34,11 @@ I am always open to connecting and collaborating on projects involving:
 * 🌍 I hail from a small town in **Qwaqwa**, and I am deeply passionate about merging technology with localized solutions to uplift communities.
 * 😄 Pronouns: She/Her
 
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Q433nCode&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Q433nCode's GitHub Stats" />
-</div>
 
 ---
 
 ### 📫 Connect With Me
-* **LinkedIn:** [Xolile Queen Moloi](https://linkedin.com)
+* **LinkedIn:** [Xolile Queen Moloi](https://www.linkedin.com/in/xolile-queen-moloi-322768298)
 * **Email:** Reach out via my profile or portfolio links!
 
 <div align="center">
